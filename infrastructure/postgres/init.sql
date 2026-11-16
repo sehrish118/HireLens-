@@ -1,0 +1,6 @@
+CREATE EXTENSION IF NOT EXISTS vector;
+
+CREATE DATABASE hirelens_test;
+\c hirelens_test
+CREATE EXTENSION IF NOT EXISTS vector;
+
